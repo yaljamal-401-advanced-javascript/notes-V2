@@ -1,0 +1,30 @@
+{
+  "name": "notes-V2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaljamal-401-advanced-javascript/notes-V2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaljamal-401-advanced-javascript/notes-V2/issues"
+  },
+  "homepage": "https://github.com/yaljamal-401-advanced-javascript/notes-V2#readme",
+  "dependencies": {
+    "jest": "^26.0.1",
+    "jsdoc": "^3.6.4",
+    "minimist": "^1.2.5",
+    "mongoose": "^5.9.16"
+  },
+  "devDependencies": {
+    "@code-fellows/supergoose": "^1.0.2",
+    "eslint": "^7.1.0"
+  }
+}
